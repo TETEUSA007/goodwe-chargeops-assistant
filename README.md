@@ -1,4 +1,4 @@
-# GoodWe ChargeOps Assistant
+# Chatbot - GoodWe
 
 ## Integrantes
 - Matheus Sabino da Silva Guedes — RM 572907
